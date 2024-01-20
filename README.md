@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Kristian</h2>
-<h3 align="center">A passionate FullStack developer student</h3>
+
+<h3 align="center">Hi 👋, I'm Kristian, a passionate FullStack developer student</h3>
 
 - 🔭 I’m based in Stockholm, Sweden
 
