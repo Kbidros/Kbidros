@@ -1,9 +1,7 @@
 
-<h3 align="center">Hi 👋, I'm Kristian, a passionate FullStack developer student</h3>
+<h3 align="left">Hi 👋, I'm Kristian, a passionate FullStack developer student</h3>
 
 - 🔭 I’m based in Stockholm, Sweden
-
-- 🌱 I’m currently learning **JavaScript,Typescript, React, node.js and other frameworks**
 
 - 🤝 I’m looking for help with finding **internship**
 
