@@ -9,7 +9,7 @@
 
 - 💬 How to reach me **Kristianbidros@gmail.com**
 
-- ⚡ Fun fact **I put cereal first and THEN milk, otherwise it's a crime!**
+- ⚡ Fun fact: **I've always been the "tech guy" since I was like 8 and "fixed" my grandma's TV by switching source 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
