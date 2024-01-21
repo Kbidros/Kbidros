@@ -1,13 +1,13 @@
 
 <h3 align="left">Hi 👋, I'm Kristian, a passionate Junior FullStack developer</h3>
 
-- 🔭 I’m based in Stockholm, Sweden
+- 📍 I’m based in Stockholm, Sweden
 
 - 🤝 I’m looking for help with finding **internship**
 
 - 👨‍💻 All of my projects will be available at [my portfolio link TBA]
 
-- 💬 How to reach me **Kristianbidros@gmail.com**
+- 💬 How to reach me => **Kristianbidros@gmail.com**
 
 - 😂 Fun fact: I've always been the "tech guy" since I was like 8 and "fixed" my grandma's TV by just switching source on the remote..
 
