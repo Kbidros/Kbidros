@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋, I'm Kristian, a passionate Junior FullStack developer</h3>
+<h3 align="left">Hi 👋, I'm Kristian, a passionate Junior Full Stack developer</h3>
 
 - 📍 I’m based in Stockholm, Sweden
 
